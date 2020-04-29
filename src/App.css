@@ -1,0 +1,50 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.screenW {
+    width: 100vw;
+}
+.fullW {
+    width: 100%;
+}
+.screenH {
+    height: 100vh;
+}
+.fullH {
+    height: 100%;
+}
+.imgCover {
+    object-fit: cover;
+}
+.overflowH {
+    overflow: hidden;
+}
+.transition1l {
+    transition: left 1s ease-in-out;
+}
+.abs {
+    position: absolute;
+}
+.rel {
+    position: relative;
+}
+.left0 {
+    left: 0px;
+}
+.left100vw {
+    left: 100vw;
+}
+.leftM100vw {
+    left: -100vw;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+}
+.flex8 {
+    flex: 8;
+}
